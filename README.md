@@ -479,8 +479,14 @@ a:hover{
 }
 
 
+##OUTPUT:
+nithyasri/restapp/static/Screenshot (22).png
+nithyasri/restapp/static/Screenshot (23).png
+/scriptsnithyasri/restapp/static/Screenshot (24).png
+nithyasri/restapp/static/Screenshot (21).png
 
-## OUTPUT:
+
+
 
 
 ## RESULT:
