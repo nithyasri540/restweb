@@ -1,0 +1,67 @@
+body{
+     background-color: peachpuff;
+     height: 5px;
+     margin: 0;
+}
+.container{
+    display:flex;
+    flex-wrap: wrap;
+    background:url(restweb.png) no-repeat center/contain;
+    width: 100%;  
+    gap: 20px;  
+    align-items: center; 
+
+}
+
+h1{
+    text-align: center;
+    margin-top: 7px;
+}
+.menu{
+    position: absolute;
+    top: 7%;
+    left: 39%;
+    font-size: 25px;
+    display: flex;
+    gap: 18px;
+}
+a{
+    color: black;
+    
+}
+a:hover{
+    color:rgb(242, 255, 0);
+}
+.footer{
+    margin-top: 558px;
+    position: absolute;
+    left: 0;
+    text-align: center;
+    width: 100%;
+    background-color: peachpuff;
+    font-size: 23px;
+     
+}
+
+.admin{
+     margin-top: 185px;
+     margin-bottom: 190px;
+     width: 230px;     
+     background-color: cyan;     
+     border: 1px solid red;  
+     padding: 3px;     
+     box-sizing: border-box;     
+     border-radius: 8px;     
+     box-shadow: 0 2px 5px rgba(0,0,0,0.1);     
+     text-align: center;   
+}
+h3{
+    font-size: 20px
+
+}
+
+img{
+    height: 220px;
+    width:175px;
+    border-radius: 8px;
+}

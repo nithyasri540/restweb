@@ -1,0 +1,74 @@
+body{
+     background-color: rgb(255, 185, 185);
+     height: 3px;
+     margin: 0;
+}
+
+.container{
+    display:flex;
+    flex-wrap: wrap;
+    background:url(restweb.png) no-repeat center/contain;
+    width: 99%;  
+    gap: 18px; 
+    align-items: center; 
+}
+
+h1{
+    text-align: center;
+    margin-top: 7px;
+}
+.menu{
+   position: absolute;
+    left: 39%;
+    top: 7%;
+    font-size: 25px;
+    display: flex;
+    gap: 18px;
+    
+}
+a{
+    color: black;
+    text-decoration: none;
+    
+}
+a:hover{
+    color:rgb(249, 249, 26);
+}
+.footer{
+    margin-top: 30px;
+    position: absolute;
+    left: 0;
+    text-align: center;
+    width: 100%;
+    background-color: rgb(255, 185, 191);
+    font-size: 23px;
+     
+}
+
+.item{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 220px;     
+    background-color: rgb(255, 208, 0);     
+    border: 1px solid red;    
+    padding: 3px;     
+    box-sizing: border-box;     
+    border-radius: 7px;     
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);     
+    text-align: center; 
+    margin-left: 115px;
+  
+}
+h3{
+    font-size: 16px;
+}
+.price{
+    font-size: 14px;
+}
+img{
+    height: 145px;
+    width: 130px;
+    border-radius: 8px;
+
+}
+
