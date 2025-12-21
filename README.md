@@ -480,10 +480,10 @@ a:hover{
 
 
 ##OUTPUT:
-nithyasri/restapp/static/Screenshot (22).png
-nithyasri/restapp/static/Screenshot (23).png
-/scriptsnithyasri/restapp/static/Screenshot (24).png
-nithyasri/restapp/static/Screenshot (21).png
+Screenshot (22).png
+Screenshot (23).png
+Screenshot (24).png
+Screenshot (21).png
 
 
 
